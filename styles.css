@@ -15,6 +15,7 @@
 .foto-principal {
     width: 35%; /* Ajusta el tamaño de la imagen */
     border-radius: 1rem;
+    margin-left: -8%;   
 }
 
 .texto {
